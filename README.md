@@ -3,5 +3,5 @@
 
 
 - 🌱 I’m currently learning Swift and its frameworks 😅
-- 🔭 I’m currently working on my first iOS Apps
+- 🔭 I’m currently working on my iOS Apps
 - 🚀 Astro.js and Tailwind CSS are also a lot of fun
